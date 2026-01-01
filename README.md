@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Your Name]
+### Hi there 👋, I'm mohammed ali
 
 I am a Software Engineering Student at **1337 (42 Network)**, passionate about low-level programming, algorithms, and building efficient systems. I enjoy digging deep into how computers work under the hood.
 
